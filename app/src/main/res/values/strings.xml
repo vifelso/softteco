@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="saveLogcat">Logcat</string>
+    <string name="invisible_empty_button">invisible empty button</string>
+    <string name="save_of_user">save of user</string>
+</resources>
